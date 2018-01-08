@@ -11,5 +11,11 @@ int main()
     printf("69");
     printf("69");
     printf("69");
+    printf("69");
+    printf("69");
+    printf("69");
+    printf("69");
+    printf("69");
+    printf("69");
     return 0;
 }
